@@ -1,0 +1,7 @@
+*.o
+*.hex
+BLE_SDK
+Mesh_SDK
+build
+output
+.*.swp
